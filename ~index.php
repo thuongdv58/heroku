@@ -8,9 +8,8 @@
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
-<h1 class="page-header">Personal webpage</h1>
-<div class="profile well well-lg">
-    <h1>Profile:</h1>
+<h1>Personal webpage</h1>
+<div class="profile">
 	<div class="glyphicon glyphicon-star" >Name :Đinh Viết Thường</div><br />
 	<div class="glyphicon glyphicon-star">classname :K58CA</div><br />
     <div class="glyphicon glyphicon-star">School: University of Engineering and Technology</div><br />
@@ -23,10 +22,5 @@
 <?php
 	echo "<p></p>"
 ?>
-  <script>
-        .profile {
-            margin-left:3px;
-        }
-    </script>
 </body>
 </html>
