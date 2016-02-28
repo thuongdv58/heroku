@@ -18,7 +18,8 @@
     <div class="glyphicon glyphicon-star">Hometown:Hải Phòng</div><br />
 	<div class="glyphicon glyphicon-star">Ngày sinh :17/10/1995</div><br />
     <div class="glyphicon glyphicon-star">phone: 0965940059</div><br />
-    <div class="glyphicon glyphicon-star">mail :thuongdv_58@vnu.edu.vn</div><br /> 
+    <div class="glyphicon glyphicon-star">mail :thuongdv_58@vnu.edu.vn</div><br />
+    <a href='https://flaskdolllll.herokuapp.com/'>my 7 day Javascript</a>
 </div>
 <?php
 	echo "<p></p>"
